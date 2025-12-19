@@ -109,3 +109,9 @@
 ---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kkausik11E&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
